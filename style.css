@@ -5,7 +5,7 @@ html {
 }
 
 h1 {
-  font-size: 30px;
+  font-size: 60px;
   text-align: center;
   margin: 0;
   padding: 20px 0;
@@ -30,4 +30,12 @@ body {
 img {
   display: block;
   margin: 0 auto;
+}
+
+#mainquote {
+   color: red;
+}
+
+.quote {
+  color: red;
 }
